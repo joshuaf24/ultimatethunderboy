@@ -1,0 +1,25 @@
+{
+  "kind": 0,
+  "closed": false,
+  "precision": 4,
+  "points": [
+    {"speed":100.0,"x":538.0,"y":285.0,},
+    {"speed":25.0,"x":353.0,"y":245.0,},
+    {"speed":100.0,"x":355.2,"y":244.399979,},
+    {"speed":100.0,"x":539.0,"y":282.0,},
+    {"speed":8.0,"x":672.0,"y":254.599976,},
+    {"speed":100.0,"x":672.0,"y":254.0,},
+    {"speed":100.0,"x":537.0,"y":294.0,},
+    {"speed":20.0,"x":349.600037,"y":254.199951,},
+    {"speed":100.0,"x":347.0,"y":255.0,},
+    {"speed":100.0,"x":537.4,"y":303.0,},
+  ],
+  "parent": {
+    "name": "Paths",
+    "path": "folders/Paths.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "p_enemyrightcombo",
+  "tags": [],
+  "resourceType": "GMPath",
+}
